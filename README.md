@@ -1,2 +1,3 @@
 # YRS
-This is my first Git Reprository
+This is my first Git Reprository.
+Author- YASH
